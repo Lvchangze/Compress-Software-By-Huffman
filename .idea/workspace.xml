@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PJ1-Try:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e980109-9730-4dcc-a6e1-8172298ed86e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sdm3n3S6yvIgpY17WbD0sZ94u6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Compress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compress" />
+      <module name="PJ1-Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PJ1-Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTable" />
+      <module name="PJ1-Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hh" />
+      <module name="PJ1-Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainTable" />
+        <item itemvalue="Application.hh" />
+        <item itemvalue="Application.Compress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e980109-9730-4dcc-a6e1-8172298ed86e" name="Default Changelist" comment="" />
+      <created>1571901649424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571901649424</updated>
+      <workItem from="1571901652298" duration="1452000" />
+      <workItem from="1571903359398" duration="2398000" />
+      <workItem from="1572087323999" duration="7104000" />
+      <workItem from="1572095945593" duration="2907000" />
+      <workItem from="1572183635100" duration="1074000" />
+      <workItem from="1572262603767" duration="2420000" />
+      <workItem from="1572319389395" duration="161000" />
+      <workItem from="1572330964557" duration="1123000" />
+      <workItem from="1572352699073" duration="288000" />
+      <workItem from="1572416199634" duration="1339000" />
+      <workItem from="1572442562593" duration="648000" />
+      <workItem from="1572500717452" duration="117000" />
+      <workItem from="1572500896008" duration="1900000" />
+      <workItem from="1572533317218" duration="86000" />
+      <workItem from="1572682759699" duration="281000" />
+      <workItem from="1572688395388" duration="30000" />
+      <workItem from="1572690167813" duration="24421000" />
+      <workItem from="1572786257178" duration="4534000" />
+      <workItem from="1573021055340" duration="7109000" />
+      <workItem from="1585114987276" duration="1836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585114991305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585114991305" />
+  </component>
+</project>

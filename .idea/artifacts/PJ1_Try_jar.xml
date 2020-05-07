@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PJ1-Try:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PJ1_Try_jar</output-path>
+    <root id="archive" name="PJ1-Try.jar">
+      <element id="module-output" name="PJ1-Try" />
+    </root>
+  </artifact>
+</component>
